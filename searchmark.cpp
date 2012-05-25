@@ -36,7 +36,7 @@ int main(int argc,char ** argv) {
 
   time_t t1,t2;
   time(&t1);
-  for(size_t n=0;n<2000000;n++) {
+  for(size_t n=0;n<20000;n++) {
     vector<uint8_t> s;
     s.push_back('r');
     s.push_back('a');
