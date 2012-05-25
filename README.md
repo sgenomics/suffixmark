@@ -1,4 +1,0 @@
-suffixmark
-==========
-
-Suffix benchmarking tools
